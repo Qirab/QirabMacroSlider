@@ -1,6 +1,6 @@
 Qirab™ Macro Slider QMS
 
-The Qirab™ Macro Slider is a precision camera macro tool with 0.5mm precision. 
+The Qirab™ Macro Slider is a precision camera macro tool with 0.5mm precision. It is made from 3D printed parts, 20x20 aluminum profile and a T8 lead screw.
 
 ![QMS v1.3.1 CAD](https://github.com/Qirab/QirabMacroSlider/blob/bd01bd25b0605e1f1385882a63f50861b627cea0/QMSv1.3.1.png?raw=true)
 QMS v1.3.1

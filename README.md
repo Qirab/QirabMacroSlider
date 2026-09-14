@@ -1,4 +1,4 @@
-Qirab Macro Slider QMS
+Qirabˇ Macro Slider QMS
 
 The Qirab Macro Slider is a precision camera macro tool with 0.5mm precision. 
 

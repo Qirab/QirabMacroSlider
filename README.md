@@ -1,8 +1,12 @@
 Qirab Macro Slider QMS
 
-The Qirab Macro Slider is a precision camera sliding tool with 0.5mm precision. 
+The Qirab Macro Slider is a precision camera macro tool with 0.5mm precision. 
+
+![QMS v1.3.1 CAD](https://github.com/Qirab/QirabMacroSlider/blob/bd01bd25b0605e1f1385882a63f50861b627cea0/QMSv1.3.1.png?raw=true)
 
 The QMS was designed for use with the <a href="https://github.com/Qirab/QirabTravelDigitisationCradle">Qirab Travel Digitisation Cradle QTC50</a>. 
+
+![QMS v1.3.1 on QTC50 CAD](https://github.com/Qirab/QirabMacroSlider/blob/bd01bd25b0605e1f1385882a63f50861b627cea0/QMSwithQTC50.png?raw=true)
 
 It currently uses the <a href="https://www.manfrotto.com/global-en/quick-change-rectangular-plate-adapter-universal-threads-323/">Manfroto RC2 Quick Change Rectangular Plate Adapter</a>. It could be modified to work with other camera plates or system. 
 
